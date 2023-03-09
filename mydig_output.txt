@@ -1,0 +1,26 @@
+Question Section
+www.google.com IN A
+ANSWER SECTION
+www.google.com. 300 IN A 142.250.176.196
+Query time 0.07s
+WHEN :  2022-09-20 20:34:48.635553
+Message Size rcvd :  88
+
+Question Section
+google.com IN NS
+ANSWER SECTION
+google.com. 345600 IN NS ns4.google.com.
+google.com. 345600 IN NS ns1.google.com.
+google.com. 345600 IN NS ns3.google.com.
+google.com. 345600 IN NS ns2.google.com.
+Query time 0.06s
+WHEN :  2022-09-20 20:34:48.700211
+Message Size rcvd :  88
+
+Question Section
+google.com IN MX
+ANSWER SECTION
+google.com. 300 IN MX 10 smtp.google.com.
+Query time 0.06s
+WHEN :  2022-09-20 20:34:48.762982
+Message Size rcvd :  88
